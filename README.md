@@ -1,2 +1,3 @@
 # docker-rutorrent
-Collaborate ruTorrent + rTorrent + Docker
+
+ruTorrent + rTorrent + Docker + Nginx
